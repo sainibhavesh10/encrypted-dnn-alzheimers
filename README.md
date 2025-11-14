@@ -55,15 +55,3 @@ Standard machine learning models require access to plaintext data, which is a ma
 * A C++ compiler (g++, Clang, MSVC)
 * [CMake](https://cmake.org/)
 * [Microsoft SEAL](https://github.com/microsoft/SEAL) (Follow their guide to build and install the library)
-* Python 3.x (for the training scripts)
-
-### 1. Training (Python)
-
-Navigate to the `/python_training` folder:
-
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the training script
-python train_model.py
