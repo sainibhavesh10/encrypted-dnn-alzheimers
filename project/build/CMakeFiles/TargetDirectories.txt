@@ -1,0 +1,3 @@
+/Users/bhavesh/minor/project/build/CMakeFiles/my_app.dir
+/Users/bhavesh/minor/project/build/CMakeFiles/edit_cache.dir
+/Users/bhavesh/minor/project/build/CMakeFiles/rebuild_cache.dir

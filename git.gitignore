@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# C++ build files
+build/
+*.o
+*.out
+*.exe
+*.dll
+*.so
+
+# C++ project files
+.vscode/
+*.suo
+*.user
+
+# Microsoft SEAL (if you built it in-tree)
+seal/bin/
+seal/lib/
+
+# OS files
+.DS_Store
+Thumbs.db

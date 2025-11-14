@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/my_app.dir/main.cpp.o CMakeFiles/my_app.dir/filereader.cpp.o CMakeFiles/my_app.dir/ckks_helper.cpp.o -o my_app  /usr/local/lib/libseal-4.1.a
